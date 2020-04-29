@@ -39,4 +39,4 @@ En la siguiente imagen se ve las pruebas a la api de triangular:
 
 - prueba 2
 
-![prueba 2](https://ibb.co/1md6yvW)
+![prueba 2](https://i.ibb.co/YLyZnRs/triangular2.png)
