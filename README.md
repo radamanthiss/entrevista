@@ -5,7 +5,7 @@ Para poder realizar las pruebas respectivas, no pude ejecutarlo usando el curl -
 https://console.aws.amazon.com/apigateway/home?region=us-east-1#/apis/5qf4m6te4j/resources/1jsxhn/methods/POST 
 O si se realiza la petición desde el postman como se ve en la siguiente imagen:
 
-![Configuracion AWS](https://ibb.co/GQY0r9z)
+![Configuracion AWS](https://i.ibb.co/K23hHRD/config-postman.png)
 
 ## Access Key AWS
 - Access key: AKIATA6J7ZQRPT4S3PPQ
