@@ -1,0 +1,19 @@
+  triangular:
+    runtime: nodejs12.x
+    memorySize: 256
+    handler: javascript/triangular.main 
+    role: TriangularFunRole
+    events:
+      - http:
+          path: triangular
+          method: post
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Api-Key
+              - X-Amz-Security-Token
+              - X-Amz-User-Agent
+            allowCredentials: false          

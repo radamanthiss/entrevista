@@ -1,0 +1,7 @@
+  calcular_triangular:
+    runtime: python3.6
+    webpack: false
+    memorySize: 512
+    handler: python/calcular_triangular.handler
+    package:
+      individually: true

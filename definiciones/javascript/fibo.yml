@@ -1,0 +1,19 @@
+  fibo:
+    runtime: nodejs12.x
+    memorySize: 256
+    handler: javascript/fibo.main 
+    role: FiboFunRole
+    events:
+      - http:
+          path: fibo
+          method: post
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Api-Key
+              - X-Amz-Security-Token
+              - X-Amz-User-Agent
+            allowCredentials: false          

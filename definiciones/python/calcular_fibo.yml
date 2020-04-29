@@ -1,0 +1,7 @@
+  calcular_fibo:
+    runtime: python3.6
+    webpack: false
+    memorySize: 512
+    handler: python/calcular_fibo.handler
+    package:
+      individually: true
