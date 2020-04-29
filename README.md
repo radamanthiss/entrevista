@@ -40,3 +40,6 @@ En la siguiente imagen se ve las pruebas a la api de triangular:
 - prueba 2
 
 ![prueba 2](https://i.ibb.co/YLyZnRs/triangular2.png)
+
+- prueba en aws
+![aws test](https://i.ibb.co/wrhWzxg/aws-test.png)
