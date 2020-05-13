@@ -1,3 +1,4 @@
 {
-    "serverlessConsole.services": []
+    "serverlessConsole.services": [],
+    "git.ignoreLimitWarning": true
 }
